@@ -1,0 +1,39 @@
+@article{gustafsson2002particle,
+  title={Particle filters for positioning, navigation, and tracking},
+  author={Gustafsson, Fredrik and Gunnarsson, Fredrik and Bergman, Niclas and Forssell, Urban and Jansson, Jonas and Karlsson, Rickard and Nordlund, Per-Johan},
+  journal={IEEE Transactions on signal processing},
+  volume={50},
+  number={2},
+  pages={425--437},
+  year={2002},
+  publisher={IEEE}
+}
+
+@article{djuric2003particle,
+  title={Particle filtering},
+  author={Djuri{\'c}, Petar M and Kotecha, Jayesh H and Zhang, Jianqiu and Huang, Yufei and Ghirmai, Tadesse and Bugallo, M{\'o}nica F and Miguez, Joaqu{\'\i}n},
+  journal={IEEE signal processing magazine},
+  volume={20},
+  number={5},
+  pages={19--38},
+  year={2003},
+  publisher={IEEE}
+}
+
+@article{arulampalam2002tutorial,
+  title={A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking},
+  author={Arulampalam, M Sanjeev and Maskell, Simon and Gordon, Neil ...},
+  journal={IEEE Transactions on signal processing},
+  volume={50},
+  number={2},
+  pages={174--188},
+  year={2002},
+  publisher={IEEE}
+}
+
+@book{ristic2003beyond,
+  title={Beyond the Kalman filter: Particle filters for tracking applications},
+  author={Ristic, Branko and Arulampalam, Sanjeev and Gordon, Neil},
+  year={2003},
+  publisher={Artech house}
+}
